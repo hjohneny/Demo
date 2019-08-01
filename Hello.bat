@@ -1,3 +1,3 @@
 ECHO OFF
-ECHO Hello World. This is a demo 1
+ECHO Hello World. Test 1
 PAUSE
